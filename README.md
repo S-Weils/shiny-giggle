@@ -1,6 +1,6 @@
 # shiny-giggle
 My first repository on GitHub
-*I will write on the bioinformatics from monday 23^rd^ January*
+*I will write on the bioinformatics from monday 23^r^d^ January*
 
 # DAY 1
 Installation of Git Hub
