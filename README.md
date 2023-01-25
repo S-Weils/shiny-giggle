@@ -1,8 +1,8 @@
 # **shiny-giggle**
-My first repository on GitHub
-*I will write on the bioinformatics from monday 23rd January*
+- My first repository on GitHub
+- *I will write on the bioinformatics from monday 23rd January*
 
-# **DAY 1**
+# **DAY 1 (MONDAY) 23-01-2023**
 ## Introduction to Shell, git and R for Biomedical Scientist at Laikipia University
 **Instructors**: *Winfred Gatua, Percelli Jepchirchir*
 **Helpers**: *Dorcas Namikelwa, Kithuka Kanini, Brenda Kamau, Nehemiah Ongeso*
@@ -11,9 +11,9 @@ My first repository on GitHub
 1. Installation of Git Hub
 2. Installation of R Studio
 
-# **DAY 2**
-Introduction to commandline
+# **DAY 2 (TUESDAY) 24-01-2023**
+1. Introduction to commandline
 
-# DAY 3
+# **DAY 3 (WEDNESDAY) 25-01-2023**
 Introduction to Git Hub
 Learn Markdown in 60 pages. Designed for both novices and experts, The Markdown Guide book is a comprehensive reference that has everything you need to get started and master Markdown syntax.
